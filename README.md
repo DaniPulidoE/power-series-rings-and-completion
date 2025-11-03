@@ -43,10 +43,9 @@ study.
 - **Structure theorems of complete Noetherian local rings.**
 
 ## 4. Methods and Approach
-
-- Studying core algebraic constructions, such as tensor products, inverse limits, and completions.
-- Conducting a literature review on commutative Noetherian local rings.
-- Synthesizing findings from multiple sources into a cohesive 40-page LaTeX manuscript. 
+1. Studying core algebraic constructions, such as tensor products, inverse limits, and completions.
+2. Conducting a literature review on commutative Noetherian local rings.
+3. Synthesizing findings from multiple sources into a cohesive 40-page LaTeX manuscript. 
 
 ## 5. Bibliography
 [1] Atiyah, M. F. and Macdonald, I. G., Introducción al álgebra conmutativa,
